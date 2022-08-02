@@ -1,0 +1,23 @@
+
+{
+  "DeliverySpeed":"One Day Delivery",
+  "Addressdata": {
+    "name":"piyathida",
+    "mobileNumber":"099999999",
+    "zip":"10520",
+    "address":"287/126",
+    "city":"pattaya",
+    "state":"Bangkok",
+    "country":"Thailand"
+  },
+  "Creaditdata": {
+    "name":"piyathida",
+    "creditCardNumber":"1111111111111111",
+    "expireMonth":1,
+    "expireYear":"2080"
+  },
+  "ProductData":{
+    "appleProduct": "Apple Juice (1000ml)",
+    "bananaProduct": " Banana Juice (1000ml) "
+  }
+}
